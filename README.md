@@ -53,4 +53,3 @@ Total a pagar: $1725
     Entrada de Datos: prompt().
 
     Conversión de Tipos: parseFloat() para convertir strings a números con decimales.
-# E3-M3-Trillo-Lillo
